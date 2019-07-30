@@ -1,4 +1,4 @@
-# addition-of-two-complex-number
+# addition-of-two-complex-number using friend function
 
 
 
